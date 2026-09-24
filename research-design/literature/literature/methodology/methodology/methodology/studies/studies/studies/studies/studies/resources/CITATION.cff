@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use materials from this research project, please cite this repository."
+title: "Nature-Finance Materiality: From Ecological Exposure to Financial Decision-Making"
+type: dataset
+authors:
+  - family-names: "Gaied Chortane"
+    given-names: "Sana"
+repository-code: "https://github.com/sgaiedchor/nature-finance-materiality"
+abstract: >
+  Research project investigating how ecological dependencies and impacts
+  become measurable, informationally visible, institutionally structured,
+  and ultimately financially material.
+keywords:
+  - biodiversity
+  - sustainable finance
+  - nature-related risk
+  - double materiality
+  - sustainability disclosure
+  - ESG
+  - financial materiality
+  - artificial intelligence
+license: CC-BY-4.0
